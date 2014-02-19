@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
+PROJECT TITLE: Pesterchum
+PURPOSE OF PROJECT: For fun! It's a chatbot that (poorly) simulates a conversation with two Homestuck characters through Pesterchum. Note: Both of the characters, as well as Pesterchum and Homestuck, belong to Andrew Hussie
+VERSION or DATE: Feb. 19th, 2014
+HOW TO START THIS PROJECT: Download all the files in the folder named "Pesterchum" and run Main.class
+AUTHORS: Elizabeth Zeng
 USER INSTRUCTIONS:
