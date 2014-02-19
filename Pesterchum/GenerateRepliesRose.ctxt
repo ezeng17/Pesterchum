@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ GenerateReplesRose()
+comment1.params=entered
+comment1.target=java.lang.String\ answer(java.lang.String)
+comment1.text=\n\ Basically,\ direct\ the\ program\ to\ the\ right\ method\ depending\ on\ where\ the\ user\ is\ in\ the\ conversation\n\ @param\ entered\t\tThe\ String\ the\ user\ entered\n\ @return\t\t\t\tThe\ String\ that\ will\ be\ printed\ into\ the\ chatwindow\n
+comment2.params=enteredLine
+comment2.target=java.lang.String\ begin(java.lang.String)
+comment2.text=\n\ The\ very\ beginning\ of\ the\ conversation.\ Rose\ is\ a\ little\ snarky\ and\ impatient.\n\ @param\ enteredLine\tYour\ entered\ line\n\ @return\t\t\t\tWhat\ Rose\ replies\n
+comment3.params=enteredLine
+comment3.target=java.lang.String\ setThings(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ lastReply()
+comment4.text=\n\ The\ end\ of\ the\ conversation\n\ @return\t\tThe\ last\ reply,\ and\ after\ that\ just\ return\ nothing\n
+numComments=5

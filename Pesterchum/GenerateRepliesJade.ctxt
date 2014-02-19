@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ GenerateReplesJade()
+comment1.params=entered
+comment1.target=java.lang.String\ answer(java.lang.String)
+comment1.text=\n\ Basically,\ direct\ the\ program\ to\ the\ right\ method\ depending\ on\ where\ the\ user\ is\ in\ the\ conversation\n\ @param\ entered\t\tThe\ String\ the\ user\ entered\n\ @return\t\t\t\tThe\ String\ that\ will\ be\ printed\ into\ the\ chatwindow\n
+comment2.params=
+comment2.target=java.lang.String\ begin()
+comment2.text=\n\ \n\ @return\t\tThe\ first\ thing\ Jade\ says\ to\ you\n
+comment3.params=enteredLine
+comment3.target=java.lang.String\ setThings(java.lang.String)
+comment3.text=\n\ Begin\ the\ conversation\ with\ Jade\ getting\ the\ user's\ name.\ Hopefully\ before\ she\ gets\ frustrated.\n\ @param\ enteredLine\t\tThe\ line\ the\ user\ entered\n\ @return\t\t\t\t\tThe\ line\ Jade\ replies\ with\n
+comment4.params=entered
+comment4.target=java.lang.String\ nextReply(java.lang.String)
+comment4.text=\n\ Go\ to\ the\ next\ stage\ of\ replies.\ Jade\ will\ ask\ you\ what's\ up.\n\ @param\ entered\t\tThe\ entered\ line\n\ @return\t\t\t\tWhat\ Jade\ replies\ with\n
+comment5.params=entered
+comment5.target=java.lang.String\ nextNextReply(java.lang.String)
+comment5.text=\n\ Go\ to\ the\ next\ stage\ of\ conversation.\ Jade\ discusses\ disappearing\ pumpkins\ and\ explosions\ and\ basically\n\ disregards\ whatever\ the\ user\ says.\n\ @param\ entered\t\tThe\ entered\ line\n\ @return\t\t\t\tWhat\ Jade\ replies\ with\n
+comment6.params=entered
+comment6.target=java.lang.String\ otherBranch(java.lang.String)
+comment6.text=\n\ A\ little\ alternate\ conversation\ depending\ on\ whether\ you\ have\ \n\ @param\ entered\t\tYour\ entered\ line\n\ @return\t\t\t\tWhat\ Jade\ replies\ with\n
+comment7.params=
+comment7.target=java.lang.String\ lastReply()
+comment7.text=\n\ The\ end\ of\ the\ conversation\n\ @return\t\tThe\ last\ reply,\ and\ after\ that\ just\ return\ nothing\n
+numComments=8

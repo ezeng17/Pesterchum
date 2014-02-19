@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ChatWindowRose()
+comment1.params=
+comment1.target=void\ createAndShowGUI()
+comment1.text=\n\ Create\ and\ show\ the\ window\n
+comment2.params=evt
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3
